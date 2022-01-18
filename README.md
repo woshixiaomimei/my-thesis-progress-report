@@ -1,7 +1,7 @@
-# my-thesis-progress-report
+# my-dissertation-progress-report
 **你这个进度你怎么睡得着啊！**
 
-### Aim: Liu's Doctoral Thesis
+### Aim: Liu's Doctoral Dissertation
 
 ### DDL: 03/31/2022
 
